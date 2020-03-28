@@ -3,7 +3,7 @@
     overholt.forms
     ~~~~~~~~~~~~~~
 
-    consolodated forms module
+    consolidated forms module
 """
 
 from .products.forms import *

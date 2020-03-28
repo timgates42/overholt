@@ -3,7 +3,7 @@
     overholt.models
     ~~~~~~~~~~~~~~~
 
-    consolodated models module
+    consolidated models module
 """
 
 from .products.models import *
